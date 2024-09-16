@@ -21,6 +21,18 @@ if (weather === 'rainy') {
   console.log("Enjoy the sunshine!"); // Expected output: (This will not print because the `else if` is true)
 }
 
+// Step 3. 
+// Order Matters: Switching else and else if statements
+// weather = 'cloudy';
+
+// if (weather === 'rainy') {
+//   console.log("Take an umbrella!"); // Expected output: (This will not print because the condition is false)
+// } else {
+//   console.log("Enjoy the sunshine!"); // Expected output: "Enjoy the sunshine!"
+// } else if (weather === 'cloudy') {
+//   console.log("It might rain, take a jacket!"); // Expected output: SyntaxError: Unexpected token 'else'
+// }
+
 // Step 4.
 // Full example using `if`, `else if`, and `else` statements
 let grade = 85; // Grade out of 100

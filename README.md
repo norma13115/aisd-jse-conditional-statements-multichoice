@@ -161,7 +161,7 @@ In this activity, you learned how to use the `else if` structure to handle multi
 
 💾 **Not something to copy and paste** 💾
 
-**Note:** This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-conditional-statements/tree/solution) (link not shown).
+**Note:** This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-conditional-statements-multichoice/tree/solution) (link not shown).
 
 ---
 

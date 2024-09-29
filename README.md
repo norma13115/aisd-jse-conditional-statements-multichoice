@@ -5,7 +5,7 @@
 
 ## Description 📄
 
-In this project, you'll expand your knowledge of JavaScript conditional statements by learning how to use the `else if` structure. This will allow you to handle multiple conditions in your code, giving your program the ability to make more complex decisions. You'll learn that only one block is executed when a condition is met and how to use the `else` statement as a catch-all for any cases not covered by previous conditions.
+In this lab, you'll expand your knowledge of JavaScript conditional statements by learning how to use the `else if` structure. This will allow you to handle multiple conditions in your code, giving your program the ability to make more complex decisions. You'll learn that only one block is executed when a condition is met and how to use the `else` statement as a catch-all for any cases not covered by previous conditions.
 
 ## Expected Project Structure 🏗️
 
